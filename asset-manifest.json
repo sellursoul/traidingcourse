@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/traidingcourse/static/css/main.ca75ee92.css",
+    "main.css": "/traidingcourse/static/css/main.45ff0056.css",
     "main.js": "/traidingcourse/static/js/main.d7fac6d0.js",
     "static/js/787.ebf7d54e.chunk.js": "/traidingcourse/static/js/787.ebf7d54e.chunk.js",
     "index.html": "/traidingcourse/index.html",
-    "main.ca75ee92.css.map": "/traidingcourse/static/css/main.ca75ee92.css.map",
+    "main.45ff0056.css.map": "/traidingcourse/static/css/main.45ff0056.css.map",
     "main.d7fac6d0.js.map": "/traidingcourse/static/js/main.d7fac6d0.js.map",
     "787.ebf7d54e.chunk.js.map": "/traidingcourse/static/js/787.ebf7d54e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca75ee92.css",
+    "static/css/main.45ff0056.css",
     "static/js/main.d7fac6d0.js"
   ]
 }
